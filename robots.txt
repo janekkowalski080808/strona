@@ -1,0 +1,53 @@
+User-Agent: *
+Allow: /
+
+User-Agent: GPTBot
+Allow: /
+
+User-Agent: OAI-SearchBot
+Allow: /
+
+User-Agent: ChatGPT-User
+Allow: /
+
+User-Agent: ClaudeBot
+Allow: /
+
+User-Agent: Claude-SearchBot
+Allow: /
+
+User-Agent: Claude-User
+Allow: /
+
+User-Agent: anthropic-ai
+Allow: /
+
+User-Agent: PerplexityBot
+Allow: /
+
+User-Agent: Perplexity-User
+Allow: /
+
+User-Agent: Google-Extended
+Allow: /
+
+User-Agent: Applebot-Extended
+Allow: /
+
+User-Agent: Bingbot
+Allow: /
+
+User-Agent: CCBot
+Allow: /
+
+User-Agent: meta-externalagent
+Allow: /
+
+User-Agent: DuckAssistBot
+Allow: /
+
+User-Agent: MistralAI-User
+Allow: /
+
+Host: https://www.equss.pl
+Sitemap: https://www.equss.pl/sitemap.xml
